@@ -52,6 +52,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         cameraViewController.allowsEditing = true
         cameraViewController.delegate = cameraViewController
         self.window?.rootViewController = cameraViewController
+        //test//
     }
 
 }
