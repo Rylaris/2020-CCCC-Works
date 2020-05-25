@@ -11,7 +11,7 @@ import AVFoundation
 
 class CameraViewController: UIImagePickerController {
     override func viewDidLoad() {
-        // test
+        // re-test
         super.viewDidLoad()
     }
     
